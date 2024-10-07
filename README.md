@@ -24,6 +24,7 @@ I'm an enthusiastic full-stack developer who enjoys bridging the gap between inn
   - ![C](https://img.shields.io/badge/-C-A8B400?style=flat-square&logo=c&logoColor=ffffff)
   - ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=ffffff)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)
+  - ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
 
 - ⚙️ **Tools:**
   - ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=ffffff)
@@ -38,14 +39,14 @@ I'm an enthusiastic full-stack developer who enjoys bridging the gap between inn
 - ![HTML](https://img.shields.io/badge/HTML-80%25-ff5733?style=for-the-badge&labelColor=gray)
 - ![CSS](https://img.shields.io/badge/CSS-70%25-264de4?style=for-the-badge&labelColor=gray)
 - ![JavaScript](https://img.shields.io/badge/JavaScript-65%25-f7df1e?style=for-the-badge&labelColor=gray)
+- ![Kotlin](https://img.shields.io/badge/Kotlin-20%25-0095D5?style=flat-square&logo=kotlin&logoColor=white)
 
 
 ## 📊 My Progress
 
 ### Learning Progress:
-- [x] HTML
-- [x] CSS
-- [x] JavaScript
+- [x] Swift
+- [x] Kotlin
 - [x] React
 - [x] Node.js
 - [x] Data Science
@@ -65,7 +66,7 @@ Here are some of the projects I've worked on:
 - **Chess**: Playing chess is my best thing to do after coding .  
 
 ## 🌐 Connect with Me
-- [LinkedIn](your-linkedin-profile)
+- [LinkedIn](https://www.linkedin.com/in/jaivesh-vaidya-18a293238/)
 - [Slack](your-slack-profile)
 - [Discord](your-discord-profile)
 
