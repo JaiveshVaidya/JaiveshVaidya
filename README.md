@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Jaivesh Vaidya  
 
-![Header](https://i.postimg.cc/fbytT723/Jaivesh-Tech.png)
+[![Jaivesh-Tech.png](https://i.postimg.cc/fbytT723/Jaivesh-Tech.png)](https://postimg.cc/5HcNszM1)
 
 <p align="center">
   <em>💻 Full-Stack Developer | 📊 Data Science Enthusiast | 🤖 ML Explorer</em>
