@@ -10,25 +10,10 @@
 
 ## ✨ About Me  
 
-<table>
-<tr>
-<td>
-
 - 🚀 Building innovative projects that bridge **creativity & functionality**.  
 - 📊 Passionate about **Data Science, ML, and Full-Stack Development**.  
 - 🌱 Currently exploring **AI-driven web apps** & **cloud solutions**.  
-- 🎯 Motto: *Code. Learn. Build. Repeat.*  
-- 🤝 Love collaborating on **open-source projects & hackathons**.  
-- 📖 Lifelong learner, always diving into **new tech & frameworks**.  
-- ⚡ Enthusiast of **automation, optimization, and problem-solving**.  
-- 🌍 Dreaming big: To build solutions that create a **global impact**. 
-
-</td>
-<td>
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="400" alt="Coding Screen">
-</td>
-</tr>
-</table>
+- 🎯 Motto: *Code. Learn. Build. Repeat.*    
 
 ---
 
